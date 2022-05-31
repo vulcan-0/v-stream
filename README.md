@@ -101,3 +101,5 @@
 - [Learn JVM Tutorial – Architecture & Working of Java Virtual Machine](https://data-flair.training/blogs/java-virtual-machine-jvm/)
 - [JVM (Java Virtual Machine) Architecture](https://www.javatpoint.com/jvm-java-virtual-machine)
 - [轻松永远记住经典jvm参数](https://zhuanlan.zhihu.com/p/127352212)
+- [Java HotSpot VM Options](https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html)
+- [JVM Parameters](https://www.javadevjournal.com/java/jvm-parameters/)
