@@ -86,6 +86,6 @@ java -Xms200M -Xmx200M -XX:+PrintGC org/vulcan/light/vstream/FullGcProblem
 
 <img src="https://github.com/vulcan-0/v-stream/blob/master/assets/image1005.png">
 
-使用`jvisualvm`查看内存情况，可以看到存在大量的`org.vulcan.light.vstream.FullGcProblem$$Lambda$2`和`org.vulcan.light.vstream.FullGcProblem$CardInfo`对象，定位到具体的类，结合代码就可查出具体的问题了。
+使用`jvisualvm`查看内存情况，可以看到存在大量的`org.vc121.light.vstream.FullGcProblem$$Lambda$2`和`org.vc121.light.vstream.FullGcProblem$CardInfo`对象，定位到具体的类，结合代码就可查出具体的问题了。
 
 <img src="https://github.com/vulcan-0/v-stream/blob/master/assets/image1006.png">
